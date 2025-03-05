@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>babki</repo>
-  <version>v1.0.10</version>
+  <version>v1.0.11</version>
   <next number="1" owner="Fistachka" repo="fiksikitri"/>
   <readme>
     <ru>25b4557ae72ae86b2850ed0dd6305f27dd9b019748fd5723f7b9b7b62d4c47f3</ru>
@@ -35,11 +35,11 @@
     <notes>
       <note number="1" values="78" ticks="97" durationTicks="449" ppq="192" velocity="0.782"/>
       <note number="2" values="78" ticks="576" durationTicks="94" ppq="192" velocity="0.867"/>
-      <note number="3" values="68" ticks="675" durationTicks="86" ppq="192" velocity="0.777"/>
+      <note number="3" values="68" ticks="675" durationTicks="140" ppq="192" velocity="0.777"/>
       <note number="4" values="78" ticks="770" durationTicks="92" ppq="192" velocity="0.839"/>
-      <note number="5" values="188" ticks="866" durationTicks="186" ppq="192" velocity="0.767"/>
-      <note number="6" values="58" ticks="1058" durationTicks="168" ppq="192" velocity="0.904"/>
-      <note number="7" values="58" ticks="1252" durationTicks="296" ppq="192" velocity="0.904"/>
+      <note number="5" values="188" ticks="866" durationTicks="145" ppq="192" velocity="0.767"/>
+      <note number="6" values="58" ticks="1058" durationTicks="193" ppq="192" velocity="0.904"/>
+      <note number="7" values="58" ticks="1200" durationTicks="296" ppq="192" velocity="0.904"/>
     </notes>
   </exercise>
   <exercise number="3">
