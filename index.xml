@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>babki</repo>
-  <version>v1.0.18</version>
+  <version>v1.0.19</version>
   <next number="1" owner="Fistachka" repo="fiksikitri"/>
   <readme>
-    <ru>59657ce8bc02c1a60906c001cb224373174bab8ab709626708e5f7053e98b9ce</ru>
-    <en>38b60169b9a9664ab8b238b47657ed787df641f0482d15dae39403362b8ddd68</en>
+    <ru>600f0d77dffdb5e37b638ce99e418c34957b5cf137d66af6f85ebe6def622b50</ru>
+    <en>4fbbf3129e6e37c53dcc0f4d7718f46ded6b566bbaa3b25aac64a4eac2290f10</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
